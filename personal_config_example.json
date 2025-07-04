@@ -1,0 +1,7 @@
+{
+  "savings": 10000,
+  "monthly_income": 2500,
+  "monthly_expenses": 500,
+  "savings_interest_percentage": 2,
+  "investment_returns_percentage": 5
+} 
