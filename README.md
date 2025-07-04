@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 Create a config file:
 ```bash 
-cp personal_config.json.example personal_config.json
+cp personal_config_example.json personal_config.json
 ```
 
 Run the simulator:
